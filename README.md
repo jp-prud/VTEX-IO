@@ -1,11 +1,5 @@
 # 📄 Documentações
 
-Primeiramente, caso for a sua primeira vez aqui, seja muito bem-vindo(a), ficamos felizes de ter você na equipe!! 😀
-
-Para estar agregando ao nosso time, seria interessante você estar lendo a respeito de alguns tópicos e conteúdos que podem estar lhe auxiliando durante a sua jornada.
-
-Desejamos a você uma incrível experiência conosco !! 💙🚀
-
 ## Aprendizados
 
 Acreditamos que com o desenvolvimento de novas lojas VTEX poderá ser uma grande responsabilidade, mas não se preocupe, em caso de dúvida, estas documentações podem lhe auxiliar.
@@ -22,7 +16,6 @@ Acreditamos que com o desenvolvimento de novas lojas VTEX poderá ser uma grande
 - [Apps de Layout](https://developers.vtex.com/vtex-developer-docs/docs/layout-apps)
 - [Comandos em Vtex IO](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-vtex-io-cli-command-reference)
 
-
 ### Front/Back-end
 
 - [Vídeos de apoio para criar app](https://www.youtube.com/c/CarlosViniciusAnanias)
@@ -38,15 +31,6 @@ A VTEX, em parceria com diversas agências, disponibiliza diversas formas de con
 - [VTEX Order Hook: Conceitos e Aplicabilidade](https://vtex.com/br-pt/resources/vtex-order-hook-conceitos-e-aplicabilidade-we-digi/)
 - [Criação de Forms em VTEX IO](https://vtex.com/br-pt/resources/criacao-de-forms-em-vtex-io-e-plus/)
 - [VTEX Order Hook: Conceitos e Aplicabilidade](https://vtex.com/br-pt/resources/vtex-order-hook-conceitos-e-aplicabilidade-we-digi/)
-
-
-## 🌟 Funcionalidades já desenvolvidas
-
-Internamente, nós já possuímos algumas funcionalidades já desenvolvidas e que podem facilitar e otimizar o seu processo de criação de loja, a seguir há a listagem deles.
-
-- [Bandeiras Promocionais - Bouton](https://github.com/agenciaModular/Bouton/tree/main/react/components/PromotionalFlags)
-- [Especificações do Produto no Card - Bouton](https://github.com/agenciaModular/Bouton/tree/main/react/components/ProductFlags)
-- [Formulário de Contato - Bouton](https://github.com/agenciaModular/Bouton/tree/main/react/components/ContactForm)
 
 ## 👤 Autores
 
